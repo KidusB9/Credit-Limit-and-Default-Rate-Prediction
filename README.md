@@ -49,7 +49,7 @@ To generate a credit limit prediction, the user must provide the following infor
 
 ### Explanation
 
-For a deeper understanding of how the application works, including a demonstration of its functionality, watch this video: [Credit Limit Prediction Demo](https://www.youtube.com/watch?v=k0A4wmo58GY). In this video, we walk through the code and showcase how the app processes user data to deliver accurate credit limit predictions, highlighting its potential benefits for banks and financial institutions.
+For a deeper understanding of how the application works, including a demonstration of its functionality, watch this video: [Credit Limit Prediction Demo](https://www.youtube.com/watch?v=k0A4wmo58). In this video, we walk through the code and showcase how the app processes user data to deliver accurate credit limit predictions, highlighting its potential benefits for banks and financial institutions.
 
 
 
