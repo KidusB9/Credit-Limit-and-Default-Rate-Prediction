@@ -51,6 +51,16 @@ To generate a credit limit prediction, the user must provide the following infor
 
 For a deeper understanding of how the application works, including a demonstration of its functionality, watch this video: [Credit Limit Prediction Demo](https://www.youtube.com/watch?v=k0A4wmo58GY). In this video, we walk through the code and showcase how the app processes user data to deliver accurate credit limit predictions, highlighting its potential benefits for banks and financial institutions.
 
+
+### Correlation Heatmaps
+
+To visualize the relationships between different financial parameters used in the model, we have created correlation heatmaps:
+
+- [Correlation Heatmap](https://github.com/KidusB9/Credit-Limit-and-Default-Rate-Prediction/blob/master/Correlation%20Heatmap.png)
+- [Enhanced Correlation Heatmap for Final Mapping](https://github.com/KidusB9/Credit-Limit-and-Default-Rate-Prediction/blob/master/Enhanced%20Correlation%20Heatmap%20for%20Final%20Mapping.png)
+
+These visualizations aid in understanding how different factors correlate with credit limit decisions and default rates.
+
 ### Requirements
 
 To set up the project and ensure all necessary libraries are installed, run the following command in your terminal:
