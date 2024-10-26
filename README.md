@@ -57,10 +57,12 @@ For a deeper understanding of how the application works, including a demonstrati
 
 To visualize the relationships between different financial parameters used in the model, we have created correlation heatmaps:
 
-- [Correlation Heatmap](https://github.com/KidusB9/Credit-Limit-and-Default-Rate-Prediction/blob/master/Correlation%20Heatmap.png)
-- [Enhanced Correlation Heatmap for Final Mapping](https://github.com/KidusB9/Credit-Limit-and-Default-Rate-Prediction/blob/master/Enhanced%20Correlation%20Heatmap%20for%20Final%20Mapping.png)
+![Correlation Heatmap](https://github.com/KidusB9/Credit-Limit-and-Default-Rate-Prediction/blob/master/Correlation%20Heatmap.png)
+
+![Enhanced Correlation Heatmap for Final Mapping](https://github.com/KidusB9/Credit-Limit-and-Default-Rate-Prediction/blob/master/Enhanced%20Correlation%20Heatmap%20for%20Final%20Mapping.png)
 
 These visualizations aid in understanding how different factors correlate with credit limit decisions and default rates.
+
 
 ### Requirements
 
